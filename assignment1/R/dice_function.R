@@ -1,0 +1,12 @@
+dice_function<-function(data)
+{
+  n<-nrow(data)
+  ans<-matrix(data=NA,nrow=n,ncol=n)
+  for (i in 1:n) {
+    for(j in 1:n)
+    {
+      ans[i,j]<-dicefor2(data[i,],data[j,])
+    }
+  }
+  return(ans)
+}

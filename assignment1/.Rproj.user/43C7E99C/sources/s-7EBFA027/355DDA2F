@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1515685093016.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "355DDA2F",
+    "lastKnownWriteTime" : 1515686963,
+    "last_content_update" : 1515686963627,
+    "path" : "~/R/My Package/assignment1/R/dicefor2.R",
+    "project_path" : "R/dicefor2.R",
+    "properties" : {
+        "cursorPosition" : "9,16",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

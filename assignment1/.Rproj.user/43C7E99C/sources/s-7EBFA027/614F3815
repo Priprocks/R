@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1515685603049.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3148260397",
+    "id" : "614F3815",
+    "lastKnownWriteTime" : 1515685763,
+    "last_content_update" : 1515685763379,
+    "path" : "~/R/My Package/assignment1/R/normalize.R",
+    "project_path" : "R/normalize.R",
+    "properties" : {
+        "cursorPosition" : "4,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

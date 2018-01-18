@@ -1,0 +1,24 @@
+Clus<-function(x,k,iter.max=1,nstart=1L)
+{
+  x<-as.matrix(x)
+  r<-nrow(x)
+  c<-ncol(x)
+  set.seed(0)
+  for(i in 1:iter.max)
+  {
+    centers<-sample.int(r,k)
+    Class<-vector(mode = "numeric",length = r)
+    for (i in 1:r) 
+    {
+      dist<-vector(mode="numeric",length = k)
+      for(j in 1:k)
+      {
+        dist[j]<-sum((x[i,]-x[centers[j],])^2)
+      }
+      Class[i]<-which.min(dist)
+    }
+    x<-cbind(x,Class)
+    totss<-gainr(x)
+  }
+  return(x)
+}

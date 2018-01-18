@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1515687659074.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "803A370E",
+    "lastKnownWriteTime" : 1515688127,
+    "last_content_update" : 1515688127061,
+    "path" : "~/R/My Package/assignment1/R/avgdice.R",
+    "project_path" : "R/avgdice.R",
+    "properties" : {
+        "cursorPosition" : "8,1",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
